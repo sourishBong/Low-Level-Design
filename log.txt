@@ -1,0 +1,7 @@
+Deposited to (A1):84.0
+Deposited to (A2):60.0
+Deposited to (A1):50.0
+Withdrawn from (A2):30.0
+20.0 is sent by A3 to A1
+Withdrawn from (A1):30.0
+10.0 is sent by A1 to A2
